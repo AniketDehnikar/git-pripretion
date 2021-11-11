@@ -1,0 +1,6 @@
+<html>
+<body>
+<p> This is a git pripretion for terraform</p>
+
+</body>
+</html>
